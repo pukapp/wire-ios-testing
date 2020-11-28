@@ -1,2 +1,2 @@
 github "wireapp/ocmock" ~> 3.4
-github "wireapp/wire-ios-system" ~> 31.0
+github "pukapp/wire-ios-system" "secret"
